@@ -1,6 +1,6 @@
 # STEE and I2B-DCGAN
 This is the code for 'Shen L, Li X, Pan Z, et al. Image2Brain: a cross-modality model for blind stereoscopic image quality ranking[J]. Journal of Neural Engineering, 2023, 20(4): 046041.' .
-Our network can be used dirictly, but some Interface, data format need to be studied carefully.
+Our network can be used directly, but some Interface, data format need to be studied carefully.
 
 python 3.7
 pytorch 1.9
