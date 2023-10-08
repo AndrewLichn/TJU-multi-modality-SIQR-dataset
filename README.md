@@ -16,6 +16,6 @@ HOW TO DOWNLOAD: (1) This database is publicly available. It is free for profess
 
 "
 Subject: Application to download the multi-modality SIQR database
-Name: Affiliation: Department: Position: Email: I have read and agree to the terms and conditions specified in the DFEW facail expression database webpage. This database will only be used for research purposes. I will not make any part of this database available to a third party. I'll not sell any part of this database or make any profit from its use.
+Name:  ,Affiliation:  ,Department:  ,Position:  ,Email:  ,I have read and agree to the terms and conditions specified in the TJU multi-modality SIQR database webpage. This database will only be used for research purposes. I will not make any part of this database available to a third party. I'll not sell any part of this database or make any profit from its use.
 "
 
